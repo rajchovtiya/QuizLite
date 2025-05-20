@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import Navbar from './Navbar';
 import Header from "./Header";
+import { NavLink } from 'react-router-dom';
 
 const QuizLite = () => {
     const [activeTab, setActiveTab] = useState('tab1');
@@ -73,6 +74,10 @@ const QuizLite = () => {
 
     const formatTime = (val) => val.toString().padStart(2, '0');
 
+    const data_item = (quiz) => {
+        localStorage.setItem("quiz", JSON.stringify(quiz))
+
+    }
 
     return (
         <>
@@ -142,12 +147,11 @@ const QuizLite = () => {
                                             {quiz.img && <img src={quiz.img} className='max-w-[25px]' alt="entry-icon" />}
                                             <span className='text-[14px] font-semibold'>{quiz.entry}</span>
                                         </div>
-                                        <a
+                                        <NavLink to={"/Quizshow"}
                                             href='#'
-                                            className='text-black text-center font-semibold text-[10px] rounded-[7px] py-[7px] px-[18px] border border-[#9015c5]'
-                                        >
+                                            className='text-black text-center font-semibold text-[10px] rounded-[7px] py-[7px] px-[18px] border border-[#9015c5]' onClick={() => { data_item(quiz) }}>
                                             Play Now
-                                        </a>
+                                        </NavLink>
                                     </div>
                                 </div>
                             );

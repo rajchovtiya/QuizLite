@@ -166,5 +166,4 @@ const Intro = () => {
         </div>
     );
 };
-
-export default Intro;
+export default Intro; 
