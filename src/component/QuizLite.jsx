@@ -1,10 +1,14 @@
 import React, { useEffect, useState } from 'react';
+import Navbar from './Navbar';
+import Header from "./Header";
 
 const QuizLite = () => {
     const [activeTab, setActiveTab] = useState('tab1');
     const [stor, setStor] = useState([]);
     const [timers, setTimers] = useState({});
     const [durations, setDurations] = useState({});
+
+    const coins = localStorage.getItem('coinReward');
 
     useEffect(() => {
         const fetchData = async () => {
@@ -30,7 +34,6 @@ const QuizLite = () => {
                             localStorage.setItem(`quiz_${quiz.id}_endTime`, endTime);
                             initialTimers[quiz.id] = quiz.duration;
                         }
-
                     });
                 });
 
@@ -45,7 +48,7 @@ const QuizLite = () => {
     }, []);
 
     useEffect(() => {
-        const interval = setInterval(() => { 
+        const interval = setInterval(() => {
             setTimers((prevTimers) => {
                 const updatedTimers = { ...prevTimers };
                 const currentTime = Math.floor(Date.now() / 1000);
@@ -66,30 +69,34 @@ const QuizLite = () => {
         }, 1000);
 
         return () => clearInterval(interval);
-    }, [durations]); 
+    }, [durations]);
 
     const formatTime = (val) => val.toString().padStart(2, '0');
 
+
     return (
         <>
+            <Navbar />
+            <Header Stors={coins} />
+
+
             <div>
                 <ul className='border-b w-full border-gray-500 h-10 mt-4 text-white flex items-end justify-around'>
                     <li
                         onClick={() => setActiveTab('tab1')}
-                        className={`text-xl font-normal w-[50%] text-center cursor-pointer pb-2 ${activeTab === 'tab1' ? 'border-b-4 border-white' : ''
-                            }`}
+                        className={`text-xl font-normal w-[50%] text-center cursor-pointer pb-2 ${activeTab === 'tab1' ? 'border-b-4 border-white' : ''}`}
                     >
                         Quiz
                     </li>
                     <li
                         onClick={() => setActiveTab('tab2')}
-                        className={`text-xl font-normal w-[50%] text-center cursor-pointer pb-2 ${activeTab === 'tab2' ? 'border-b-4 border-white' : ''
-                            }`}
+                        className={`text-xl font-normal w-[50%] text-center cursor-pointer pb-2 ${activeTab === 'tab2' ? 'border-b-4 border-white' : ''}`}
                     >
                         IPL / Cricket
                     </li>
                 </ul>
             </div>
+
             <div>
                 {stor
                     .filter((item) => item.hading === activeTab)
@@ -107,7 +114,7 @@ const QuizLite = () => {
                                 >
                                     <div className='flex items-center gap-4'>
                                         <div className='icon'>
-                                            <img src={quiz.mainimg} alt='' className='max-w-[55px]' />
+                                            <img src={quiz.mainimg} className='max-w-[55px]' alt="quiz-icon" />
                                         </div>
                                         <div className='ml-4'>
                                             <p className='text-[13px] font-semibold mb-[4px]'>{quiz.title}</p>
@@ -132,7 +139,7 @@ const QuizLite = () => {
                                         </div>
                                         <div className='flex items-center gap-1'>
                                             <p>Entry:</p>
-                                            <img src={quiz.img} alt='' className='max-w-[25px]' />
+                                            {quiz.img && <img src={quiz.img} className='max-w-[25px]' alt="entry-icon" />}
                                             <span className='text-[14px] font-semibold'>{quiz.entry}</span>
                                         </div>
                                         <a
@@ -152,4 +159,3 @@ const QuizLite = () => {
 };
 
 export default QuizLite;
-     

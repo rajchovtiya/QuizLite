@@ -1,12 +1,350 @@
 [
-    {
-        "hading": "GK ",
-        "que_ans": [
-            {
-                "que": "",
-                "opsan": [],
-                "ans": ""
-            }
-        ]
-    }
+  {
+    "id": "1",
+    "hading": "GK ",
+    "que_ans": [
+      {
+        "question ": "What is the capital of France",
+        "options ": [
+          {
+            "options1": "Berlin",
+            "options2": "Rome",
+            "options3": "Paris"
+          }
+        ],
+        "answers ": "Rome"
+      },
+      {
+        "question ": "Which planet is known as the Red Planet? ",
+        "options ": [
+          {
+            "options1": "Venus",
+            "options2": "Mars",
+            "options3": "Jupiter"
+          }
+        ],
+        "answers ": "Venus"
+      },
+      {
+        "question ": "What is the chemical symbol for water?",
+        "options ": [
+          {
+            "options1": "CO2",
+            "options2": "H2O",
+            "options3": "NaCl"
+          }
+        ],
+        "answers ": "NaCl"
+      },
+      {
+        "question ": "Who wrote the play Hamlet? ",
+        "options ": [
+          {
+            "options1": "Charles Dickens",
+            "options2": "Jane Austen",
+            "options3": "Leo Tolstoy "
+          }
+        ],
+        "answers ": "Charles Dickens"
+      },
+      {
+        "question ": "Which country is the largest in terms of land area? ",
+        "options ": [
+          {
+            "options1": "USA",
+            "options2": "China",
+            "options3": "Russia"
+          }
+        ],
+        "answers ": "Russia"
+      },
+      {
+        "question ": "What is the currency of Japan?",
+        "options ": [
+          {
+            "options1": "Euro",
+            "options2": "Yen",
+            "options3": "Dollar"
+          }
+        ],
+        "answers ": "Yen"
+      },
+      {
+        "question ": "What is the name of the longest river in the world?",
+        "options ": [
+          {
+            "options1": "Amazon",
+            "options2": "Nile",
+            "options3": "Yangtze"
+          }
+        ],
+        "answers ": "Amazon"
+      },
+      {
+        "question ": "Who invented the telephone",
+        "options ": [
+          {
+            "options1": "Thomas Edison",
+            "options2": "Alexander Graham Bell",
+            "options3": "Nikola Tesla"
+          }
+        ],
+        "answers ": "Nikola Tesla"
+      },
+      {
+        "question ": "What is the national animal of India?",
+        "options ": [
+          {
+            "options1": "Elephant",
+            "options2": "Tiger",
+            "options3": "Peacock"
+          }
+        ],
+        "answers ": "Tiger"
+      },
+      {
+        "question ": "What is the name of the largest desert in the world? ",
+        "options ": [
+          {
+            "options1": "Sahara",
+            "options2": "Arabian",
+            "options3": "Antarctic"
+          }
+        ],
+        "answers ": "Antarctic"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "hading": "history",
+    "que_ans": [
+      {
+        "question ": "Who is known as the Father of Indian Archaeology",
+        "options ": [
+          {
+            "options1": "Alexander Cunningham",
+            "options2": "R.D. Banerjee",
+            "options3": "Daya Ram Sahni"
+          }
+        ],
+        "answers ": "Alexander Cunningham"
+      },
+      {
+        "question ": "What was the name of the Indian empire that was known for its Ashokan pillars and inscriptions? ",
+        "options ": [
+          {
+            "options1": "Gupta Empire",
+            "options2": "Maurya Empire",
+            "options3": "Mughal Empire"
+          }
+        ],
+        "answers ": "Maurya Empire "
+      },
+      {
+        "question ": "Which river is considered the most sacred river in Hinduism?",
+        "options ": [
+          {
+            "options1": "Ganga",
+            "options2": "Yamuna",
+            "options3": "Indus"
+          }
+        ],
+        "answers ": "Ganga"
+      },
+      {
+        "question ": "Who wrote the famous ancient Indian text, Arthashastra?",
+        "options ": [
+          {
+            "options1": "Kautilya",
+            "options2": "Patanjali",
+            "options3": "Vyasa"
+          }
+        ],
+        "answers ": "Kautilya"
+      },
+      {
+        "question ": "In which year did India gain independence?",
+        "options ": [
+          {
+            "options1": "1947",
+            "options2": "1949",
+            "options3": "1950"
+          }
+        ],
+        "answers ": "1947"
+      },
+      {
+        "question ": "Who was the first Indian President?",
+        "options ": [
+          {
+            "options1": "Jawaharlal Nehru",
+            "options2": "Dr. Rajendra Prasad",
+            "options3": "C. Rajagopalachari"
+          }
+        ],
+        "answers ": "Dr. Rajendra Prasad "
+      },
+      {
+        "question ": "Who is known as the Father of the Nation in India?",
+        "options ": [
+          {
+            "options1": "Jawaharlal Nehru",
+            "options2": "Dr. Rajendra Prasad",
+            "options3": "Mahatma Gandhi "
+          }
+        ],
+        "answers ": "Mahatma Gandhi "
+      },
+      {
+        "question ": "What was the name of the political movement that was led by Mahatma Gandhi to achieve India's independence?",
+        "options ": [
+          {
+            "options1": "Quit India Movement",
+            "options2": "Civil Disobedience Movement",
+            "options3": "All of the above"
+          }
+        ],
+        "answers ": "All of the above"
+      },
+      {
+        "question ": "Which city is known as the City of Palaces in India?",
+        "options ": [
+          {
+            "options1": "Jaipur",
+            "options2": "Delhi",
+            "options3": "Kolkata"
+          }
+        ],
+        "answers ": "Kolkata"
+      },
+      {
+        "question ": "Which ancient civilization is known for its well-planned cities, standardized weights and measures, and sophisticated urban development?",
+        "options ": [
+          {
+            "options1": "Egyptian civilization",
+            "options2": "Indus Valley civilization",
+            "options3": "Mesopotamian civilization  "
+          }
+        ],
+        "answers ": "Indus Valley civilization"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "hading": "geography ",
+    "que_ans": [
+      {
+        "question ": "What is the longest river in the world?",
+        "options ": [
+          {
+            "options1": "Amazon",
+            "options2": "Nile",
+            "options3": "Yangtze"
+          }
+        ],
+        "answers ": "Nile"
+      },
+      {
+        "question ": "Which mountain range is known as the Roof of the World? ",
+        "options ": [
+          {
+            "options1": "Alps",
+            "options2": "Andes",
+            "options3": "Himalayas"
+          }
+        ],
+        "answers ": "Himalayas"
+      },
+      {
+        "question ": "Which desert is located in the southwestern United States?",
+        "options ": [
+          {
+            "options1": "Sahara",
+            "options2": "Gobi",
+            "options3": "Mojave"
+          }
+        ],
+        "answers ": "Mojave"
+      },
+      {
+        "question ": "What is the capital of Australia?",
+        "options ": [
+          {
+            "options1": "Sydney",
+            "options2": "Melbourne",
+            "options3": "Canberra"
+          }
+        ],
+        "answers ": "Canberra"
+      },
+      {
+        "question ": "Which country is located in South America?",
+        "options ": [
+          {
+            "options1": "Japan",
+            "options2": "Brazil",
+            "options3": "Canada"
+          }
+        ],
+        "answers ": "Brazil"
+      },
+      {
+        "question ": "What is the largest ocean on Earth?",
+        "options ": [
+          {
+            "options1": "Atlantic Ocean",
+            "options2": "Indian Ocean",
+            "options3": "Pacific Ocean"
+          }
+        ],
+        "answers ": "Pacific Ocean"
+      },
+      {
+        "question ": "Which continent is known as the Island Continent?",
+        "options ": [
+          {
+            "options1": "Asia",
+            "options2": "Africa",
+            "options3": "Australia "
+          }
+        ],
+        "answers ": "Australia "
+      },
+      {
+        "question ": "What is the capital of France?",
+        "options ": [
+          {
+            "options1": "London",
+            "options2": "Paris",
+            "options3": "Rome"
+          }
+        ],
+        "answers ": "Paris"
+      },
+      {
+        "question ": "Which city is located on two continents?",
+        "options ": [
+          {
+            "options1": "Moscow",
+            "options2": "Istanbul",
+            "options3": "Dubai"
+          }
+        ],
+        "answers ": "Istanbul"
+      },
+      {
+        "question ": "What is the name of the line that divides the Earth into the Northern and Southern Hemispheres? ",
+        "options ": [
+          {
+            "options1": "Prime Meridian",
+            "options2": "Equator",
+            "options3": "Tropic of Cancer"
+          }
+        ],
+        "answers ": "Equator"
+      }
+    ]
+  }
 ]

@@ -44,3 +44,87 @@ main {
   background-image: linear-gradient(#d8def9, #8b91ed);
   text-decoration: none;
 }
+.option {
+  border: 1px solid #fff;
+  background: transparent;
+  color: #fff;
+  font-weight: 700;
+  padding: 12px 15px;
+  font-size: 18px;
+  text-transform: uppercase;
+  border-radius: 8px;
+  display: inline-block;
+  margin: 6px auto;
+  text-decoration: none;
+  width: 100%;
+  text-align: left;
+  cursor: pointer;
+}
+
+.optionsth {
+  background: #47be06
+    url("https://fecdn20.qureka.com/assets/newui_assets/newui/images/smile.png")
+    no-repeat 97% 50%;
+  background-size: 38px;
+  border-color: #47be06;
+}
+.wrong {
+  background: #f33
+    url("https://fecdn20.qureka.com/assets/newui_assets/newui/images/sad.png")
+    no-repeat 97% 50%;
+  background-size: 38px;
+  border-color: #f33;
+}
+.new-introsuccess-page {
+  position: relative;
+  background-size: 310px;
+  min-height: 260px;
+  width: 100%;
+  max-width: 340px;
+  margin: 0 auto 10px;
+  background-color: #fff;
+  border-radius: 0 60px;
+  padding: 12px;
+}
+.loginbtn {
+  background: transparent
+    url("https://fecdn20.qureka.com/assets/newui_assets/newui/images/button-witouttext.png")
+    no-repeat top right;
+  width: 100%;
+  max-width: 187px;
+  float: right;
+  background-size: cover;
+  margin: 0;
+  margin-right: -28px;
+  line-height: 46px;
+  font-size: 22px;
+  padding: 0 0 20px;
+  height: 74px;
+  text-align: center;
+}
+.bottom-text {
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 15px;
+  padding: 0 0 0 18px;
+  text-align: left;
+  display: inline-block;
+  margin: -10px 0 0;
+}
+@keyframes textflow {
+  0% {
+    background-position: -200% 0;
+  }
+  100% {
+    background-position: 200% 0;
+  }
+}
+
+.animate-textflow {
+  background: linear-gradient(to left, #000, #fff);
+  background-size: 200% auto;
+  color: transparent;
+  background-clip: text;
+  -webkit-background-clip: text;
+  animation: textflow 4s linear infinite;
+}
