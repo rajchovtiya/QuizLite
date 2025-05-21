@@ -72,8 +72,8 @@ const Intro = () => {
                                 const baseClass = 'cursor-pointer text-white px-4 py-3 rounded-md text-sm border border-white transition-colors duration-200';
                                 const selectedClass = isSelected
                                     ? isCorrect
-                                        ? 'bg-green-600'
-                                        : 'bg-red-600'
+                                        ? 'optionsth'
+                                        : 'wrong'
                                     : 'bg-transparent hover:bg-white/10';
                                 return (
                                     <div

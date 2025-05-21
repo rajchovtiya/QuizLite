@@ -1,117 +1,57 @@
 [
   {
     "id": "1",
-    "hading": "GK ",
+    "hading": "GK",
     "que_ans": [
       {
-        "question ": "What is the capital of France",
-        "options ": [
-          {
-            "options1": "Berlin",
-            "options2": "Rome",
-            "options3": "Paris"
-          }
-        ],
-        "answers ": "Rome"
+        "question": "What is the capital of France",
+        "options": ["Berlin", "Rome", "Paris"],
+        "answer": "Rome"
       },
       {
-        "question ": "Which planet is known as the Red Planet? ",
-        "options ": [
-          {
-            "options1": "Venus",
-            "options2": "Mars",
-            "options3": "Jupiter"
-          }
-        ],
-        "answers ": "Venus"
+        "question": "Which planet is known as the Red Planet? ",
+        "options": ["Venus", "Mars", "Jupiter"],
+        "answer": "Venus"
       },
       {
-        "question ": "What is the chemical symbol for water?",
-        "options ": [
-          {
-            "options1": "CO2",
-            "options2": "H2O",
-            "options3": "NaCl"
-          }
-        ],
-        "answers ": "NaCl"
+        "question": "What is the chemical symbol for water?",
+        "options": ["CO2", "H2O", "NaCl"],
+        "answer": "NaCl"
       },
       {
-        "question ": "Who wrote the play Hamlet? ",
-        "options ": [
-          {
-            "options1": "Charles Dickens",
-            "options2": "Jane Austen",
-            "options3": "Leo Tolstoy "
-          }
-        ],
-        "answers ": "Charles Dickens"
+        "question": "Who wrote the play Hamlet? ",
+        "options": ["Charles Dickens", "Jane Austen", "Leo Tolstoy "],
+        "answer": "Charles Dickens"
       },
       {
-        "question ": "Which country is the largest in terms of land area? ",
-        "options ": [
-          {
-            "options1": "USA",
-            "options2": "China",
-            "options3": "Russia"
-          }
-        ],
-        "answers ": "Russia"
+        "question": "Which country is the largest in terms of land area? ",
+        "options": ["USA", "China", "Russia"],
+        "answer": "Russia"
       },
       {
-        "question ": "What is the currency of Japan?",
-        "options ": [
-          {
-            "options1": "Euro",
-            "options2": "Yen",
-            "options3": "Dollar"
-          }
-        ],
-        "answers ": "Yen"
+        "question": "What is the currency of Japan?",
+        "options": ["Euro", "Yen", "Dollar"],
+        "answer": "Yen"
       },
       {
-        "question ": "What is the name of the longest river in the world?",
-        "options ": [
-          {
-            "options1": "Amazon",
-            "options2": "Nile",
-            "options3": "Yangtze"
-          }
-        ],
-        "answers ": "Amazon"
+        "question": "What is the name of the longest river in the world?",
+        "options": ["Amazon", "Nile", "Yangtze"],
+        "answer ": "Amazon"
       },
       {
-        "question ": "Who invented the telephone",
-        "options ": [
-          {
-            "options1": "Thomas Edison",
-            "options2": "Alexander Graham Bell",
-            "options3": "Nikola Tesla"
-          }
-        ],
-        "answers ": "Nikola Tesla"
+        "question": "Who invented the telephone",
+        "options": ["Thomas Edison", "Alexander Graham Bell", "Nikola Tesla"],
+        "answer": "Nikola Tesla"
       },
       {
-        "question ": "What is the national animal of India?",
-        "options ": [
-          {
-            "options1": "Elephant",
-            "options2": "Tiger",
-            "options3": "Peacock"
-          }
-        ],
-        "answers ": "Tiger"
+        "question": "What is the national animal of India?",
+        "options": ["Elephant", "Tiger", "Peacock"],
+        "answer": "Tiger"
       },
       {
-        "question ": "What is the name of the largest desert in the world? ",
-        "options ": [
-          {
-            "options1": "Sahara",
-            "options2": "Arabian",
-            "options3": "Antarctic"
-          }
-        ],
-        "answers ": "Antarctic"
+        "question": "What is the name of the largest desert in the world? ",
+        "options": ["Sahara", "Arabian", "Antarctic"],
+        "answer": "Antarctic"
       }
     ]
   },
@@ -120,230 +60,326 @@
     "hading": "history",
     "que_ans": [
       {
-        "question ": "Who is known as the Father of Indian Archaeology",
-        "options ": [
-          {
-            "options1": "Alexander Cunningham",
-            "options2": "R.D. Banerjee",
-            "options3": "Daya Ram Sahni"
-          }
-        ],
-        "answers ": "Alexander Cunningham"
+        "question": "Who is known as the Father of Indian Archaeology",
+        "options": ["Alexander Cunningham", "R.D. Banerjee", "Daya Ram Sahni"],
+        "answer": "Alexander Cunningham"
       },
       {
-        "question ": "What was the name of the Indian empire that was known for its Ashokan pillars and inscriptions? ",
-        "options ": [
-          {
-            "options1": "Gupta Empire",
-            "options2": "Maurya Empire",
-            "options3": "Mughal Empire"
-          }
-        ],
-        "answers ": "Maurya Empire "
+        "question": "What was the name of the Indian empire that was known for its Ashokan pillars and inscriptions? ",
+        "options": ["Gupta Empire", "Maurya Empire", "Mughal Empire"],
+        "answer": "Maurya Empire "
       },
       {
-        "question ": "Which river is considered the most sacred river in Hinduism?",
-        "options ": [
-          {
-            "options1": "Ganga",
-            "options2": "Yamuna",
-            "options3": "Indus"
-          }
-        ],
-        "answers ": "Ganga"
+        "question": "Which river is considered the most sacred river in Hinduism?",
+        "options": ["Ganga", "Yamuna", "Indus"],
+        "answer": "Ganga"
       },
       {
-        "question ": "Who wrote the famous ancient Indian text, Arthashastra?",
-        "options ": [
-          {
-            "options1": "Kautilya",
-            "options2": "Patanjali",
-            "options3": "Vyasa"
-          }
-        ],
-        "answers ": "Kautilya"
+        "question": "Who wrote the famous ancient Indian text, Arthashastra?",
+        "options": ["Kautilya", "Patanjali", "Vyasa"],
+        "answer": "Kautilya"
       },
       {
-        "question ": "In which year did India gain independence?",
-        "options ": [
-          {
-            "options1": "1947",
-            "options2": "1949",
-            "options3": "1950"
-          }
-        ],
-        "answers ": "1947"
+        "question": "In which year did India gain independence?",
+        "options": ["1947", "1949", "1950"],
+        "answer": "1947"
       },
       {
-        "question ": "Who was the first Indian President?",
-        "options ": [
-          {
-            "options1": "Jawaharlal Nehru",
-            "options2": "Dr. Rajendra Prasad",
-            "options3": "C. Rajagopalachari"
-          }
+        "question": "Who was the first Indian President?",
+        "options": [
+          "Jawaharlal Nehru",
+          "Dr. Rajendra Prasad",
+          "C. Rajagopalachari"
         ],
-        "answers ": "Dr. Rajendra Prasad "
+        "answer": "Dr. Rajendra Prasad "
       },
       {
-        "question ": "Who is known as the Father of the Nation in India?",
-        "options ": [
-          {
-            "options1": "Jawaharlal Nehru",
-            "options2": "Dr. Rajendra Prasad",
-            "options3": "Mahatma Gandhi "
-          }
+        "question": "Who is known as the Father of the Nation in India?",
+        "options": [
+          "Jawaharlal Nehru",
+          "Dr. Rajendra Prasad",
+          "Mahatma Gandhi "
         ],
-        "answers ": "Mahatma Gandhi "
+        "answer": "Mahatma Gandhi "
       },
       {
-        "question ": "What was the name of the political movement that was led by Mahatma Gandhi to achieve India's independence?",
-        "options ": [
-          {
-            "options1": "Quit India Movement",
-            "options2": "Civil Disobedience Movement",
-            "options3": "All of the above"
-          }
+        "question": "What was the name of the political movement that was led by Mahatma Gandhi to achieve India's independence?",
+        "options": [
+          "Quit India Movement",
+          "Civil Disobedience Movement",
+          "All of the above"
         ],
-        "answers ": "All of the above"
+        "answer": "All of the above"
       },
       {
-        "question ": "Which city is known as the City of Palaces in India?",
-        "options ": [
-          {
-            "options1": "Jaipur",
-            "options2": "Delhi",
-            "options3": "Kolkata"
-          }
-        ],
-        "answers ": "Kolkata"
+        "question": "Which city is known as the City of Palaces in India?",
+        "options": ["Jaipur", "Delhi", "Kolkata"],
+        "answer": "Kolkata"
       },
       {
-        "question ": "Which ancient civilization is known for its well-planned cities, standardized weights and measures, and sophisticated urban development?",
-        "options ": [
-          {
-            "options1": "Egyptian civilization",
-            "options2": "Indus Valley civilization",
-            "options3": "Mesopotamian civilization  "
-          }
+        "question": "Which ancient civilization is known for its well-planned cities, standardized weights and measures, and sophisticated urban development?",
+        "options": [
+          "Egyptian civilization",
+          "Indus Valley civilization",
+          "Mesopotamian civilization  "
         ],
-        "answers ": "Indus Valley civilization"
+        "answer": "Indus Valley civilization"
       }
     ]
   },
   {
     "id": "3",
+    "hading": "Maths ",
+    "que_ans": [
+      {
+        "question": "What is the area of a rectangle with a length of 10 cm and a width of 5 cm?",
+        "options": ["15 cm²", "20 cm²", "50 cm²"],
+        "answer": "50 cm²"
+      },
+      {
+        "question": "If a number is divisible by both 2 and 3, what is the smallest possible number greater than 10?",
+        "options": ["12", "13", "14"],
+        "answer": "12"
+      },
+      {
+        "question": "What is the value of 9 raised to the power of 2 (9²)? ",
+        "options": ["8", "16", "81"],
+        "answer": "81"
+      },
+      {
+        "question": "What is the circumference of a circle with a radius of 7 cm (use π ≈ 3.14)? ",
+        "options": ["21.98 cm", "22 cm", "43.96 cm"],
+        "answer": "22 cm"
+      },
+      {
+        "question": " What is the sum of the interior angles of a triangle? ",
+        "options": ["90°", "120°", "180°"],
+        "answer": "180°"
+      },
+      {
+        "question": "If a number is divisible by 6, what is the smallest possible number greater than 50?",
+        "options": ["51", "52", "54"],
+        "answer": "54"
+      },
+      {
+        "question": "What is the value of 2 times 300 plus 10?",
+        "options": ["600", "610", "620 "],
+        "answer": "610"
+      },
+      {
+        "question": "What is the cube root of 8?",
+        "options": ["2", "4", "16"],
+        "answer": "4"
+      },
+      {
+        "question": "What is the area of a triangle with a base of 8 cm and a height of 5 cm?",
+        "options": ["16 cm²", "20 cm²", "40 cm²"],
+        "answer": "40 cm²"
+      },
+      {
+        "question": "What is the value of 100 divided by 5?",
+        "options": ["20", "25", "10"],
+        "answer": "20"
+      }
+    ]
+  },
+  {
+    "id": "4",
     "hading": "geography ",
     "que_ans": [
       {
-        "question ": "What is the longest river in the world?",
-        "options ": [
-          {
-            "options1": "Amazon",
-            "options2": "Nile",
-            "options3": "Yangtze"
-          }
-        ],
-        "answers ": "Nile"
+        "question": "What is the longest river in the world?",
+        "options": ["Amazon", "Nile", "Yangtze"],
+        "answer": "Nile"
       },
       {
-        "question ": "Which mountain range is known as the Roof of the World? ",
-        "options ": [
-          {
-            "options1": "Alps",
-            "options2": "Andes",
-            "options3": "Himalayas"
-          }
-        ],
-        "answers ": "Himalayas"
+        "question": "Which mountain range is known as the Roof of the World? ",
+        "options": ["Alps", "Andes", "Himalayas"],
+        "answer": "Himalayas"
       },
       {
-        "question ": "Which desert is located in the southwestern United States?",
-        "options ": [
-          {
-            "options1": "Sahara",
-            "options2": "Gobi",
-            "options3": "Mojave"
-          }
-        ],
-        "answers ": "Mojave"
+        "question": "Which desert is located in the southwestern United States?",
+        "options": ["Sahara", "Gobi", "Mojave"],
+        "answer": "Mojave"
       },
       {
-        "question ": "What is the capital of Australia?",
-        "options ": [
-          {
-            "options1": "Sydney",
-            "options2": "Melbourne",
-            "options3": "Canberra"
-          }
-        ],
-        "answers ": "Canberra"
+        "question": "What is the capital of Australia?",
+        "options": ["Sydney", "Melbourne", "Canberra"],
+        "answer": "Canberra"
       },
       {
-        "question ": "Which country is located in South America?",
-        "options ": [
-          {
-            "options1": "Japan",
-            "options2": "Brazil",
-            "options3": "Canada"
-          }
-        ],
-        "answers ": "Brazil"
+        "question": "Which country is located in South America?",
+        "options": ["Japan", "Brazil", "Canada"],
+        "answer": "Brazil"
       },
       {
-        "question ": "What is the largest ocean on Earth?",
-        "options ": [
-          {
-            "options1": "Atlantic Ocean",
-            "options2": "Indian Ocean",
-            "options3": "Pacific Ocean"
-          }
-        ],
-        "answers ": "Pacific Ocean"
+        "question": "What is the largest ocean on Earth?",
+        "options": ["Atlantic Ocean", "Indian Ocean", "Pacific Ocean"],
+        "answer": "Pacific Ocean"
       },
       {
-        "question ": "Which continent is known as the Island Continent?",
-        "options ": [
-          {
-            "options1": "Asia",
-            "options2": "Africa",
-            "options3": "Australia "
-          }
-        ],
-        "answers ": "Australia "
+        "question": "Which continent is known as the Island Continent?",
+        "options": ["Asia", "Africa", "Australia "],
+        "answer": "Australia "
       },
       {
-        "question ": "What is the capital of France?",
-        "options ": [
-          {
-            "options1": "London",
-            "options2": "Paris",
-            "options3": "Rome"
-          }
-        ],
-        "answers ": "Paris"
+        "question": "What is the capital of France?",
+        "options": ["London", "Paris", "Rome"],
+        "answer": "Paris"
       },
       {
-        "question ": "Which city is located on two continents?",
-        "options ": [
-          {
-            "options1": "Moscow",
-            "options2": "Istanbul",
-            "options3": "Dubai"
-          }
-        ],
-        "answers ": "Istanbul"
+        "question": "Which city is located on two continents?",
+        "options": ["Moscow", "Istanbul", "Dubai"],
+        "answer": "Istanbul"
       },
       {
-        "question ": "What is the name of the line that divides the Earth into the Northern and Southern Hemispheres? ",
-        "options ": [
-          {
-            "options1": "Prime Meridian",
-            "options2": "Equator",
-            "options3": "Tropic of Cancer"
-          }
+        "question": "What is the name of the line that divides the Earth into the Northern and Southern Hemispheres? ",
+        "options": ["Prime Meridian", "Equator", "Tropic of Cancer"],
+        "answer": "Equator"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "hading": "Bollywood Actresses",
+    "que_ans": [
+      {
+        "question": "Which Bollywood actress is known for her iconic dance moves in the song Chori Peeche Na Chhod from the film Dhadkan?",
+        "options": ["Sonam Kapoor", "Madhuri Dixit", "Kareena Kapoor"],
+        "answer": "Madhuri Dixit"
+      },
+      {
+        "question": "Which Bollywood actress has been named India's Most Beautiful Woman by People magazine?",
+        "options": ["Deepika Padukone", "Aishwarya Rai", "Priyanka Chopra"],
+        "answer": "Priyanka Chopra"
+      },
+      {
+        "question": "Which Bollywood actress has won the most Filmfare awards for Best Actress?",
+        "options": ["Vidya Balan", "Rekha", "Kajol"],
+        "answer": "Rekha"
+      },
+      {
+        "question": "Which actress is known for her roles in Rang De Basanti and Dil Chahta Hai?",
+        "options": ["Vidya Balan ", "Priyanka Chopra", "Aishwarya Rai"],
+        "answer": "Vidya Balan "
+      },
+      {
+        "question": "Which actress starred in the movie Dil To Pagal Hai?",
+        "options": ["Kajol", "Aishwarya Rai", "Madhuri Dixit"],
+        "answer": "Kajol"
+      },
+      {
+        "question": "Which actress has been praised for her performance in the movie Chak De! India?",
+        "options": ["Priyanka Chopra", " Vidya Balan", "Kajol"],
+        "answer": "Kajol"
+      },
+      {
+        "question": "Which actress is known for her roles in Dilwale Dulhania Le Jayenge and Kuch Kuch Hota Hai?",
+        "options": ["Juhi Chawla", "Aishwarya Rai ", "Kajol "],
+        "answer": "Kajol "
+      },
+      {
+        "question": "Which actress is known for her roles in Gadar: One Indian Rebel and Dil Hai Ki Manta Na?",
+        "options": ["Vidya Balan ", "Priyanka Chopra", "Amisha Patel"],
+        "answer": "Amisha Patel"
+      },
+      {
+        "question": "Which actress has won the National Film Award for Best Actress?",
+        "options": ["Aishwarya Rai", "Juhi Chawla", "Priyanka Chopra"],
+        "answer": "Priyanka Chopra"
+      },
+      {
+        "question": "Which actress is known for her roles in Kaho Naa... Pyaar Hai and Hero: Heart of India?",
+        "options": ["Amisha Patel ", "Priyanka Chopra", " Aishwarya Rai "],
+        "answer": " Aishwarya Rai "
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "hading": "Business",
+    "que_ans": [
+      {
+        "question": "What is the purpose of your business?",
+        "options": [
+          "To make money",
+          "To provide a service",
+          "To satisfy a market need"
         ],
-        "answers ": "Equator"
+        "answer": "To satisfy a market need"
+      },
+      {
+        "question": "What is your target market? ",
+        "options": [
+          "The general public",
+          "A specific demographic group",
+          "Businesses"
+        ],
+        "answer": "Businesses"
+      },
+      {
+        "question": "What is your value proposition?",
+        "options": [
+          "The price of your product/service",
+          "The unique benefits your business offers",
+          "All of the above"
+        ],
+        "answer": "The price of your product/service"
+      },
+      {
+        "question": "What is your business model?",
+        "options": [
+          "Selling products",
+          "Providing services",
+          "Subscription model "
+        ],
+        "answer": "Subscription model"
+      },
+      {
+        "question": "What is your business model?",
+        "options": [
+          "Selling products",
+          "Providing services",
+          "Subscription model"
+        ],
+        "answer": "Subscription model"
+      },
+      {
+        "question": "How will you make money?",
+        "options": [
+          "Pricing your product/service",
+          "Advertising",
+          "All of the above"
+        ],
+        "answer": "All of the above"
+      },
+      {
+        "question": "What is your competitive advantage?",
+        "options": ["Lower prices", "Superior quality", "All of the above"],
+        "answer ": "All of the above"
+      },
+      {
+        "question": "What is your marketing strategy",
+        "options": [
+          "All of the above ",
+          "Social media marketing",
+          "Online advertising"
+        ],
+        "answer": "All of the above "
+      },
+      {
+        "question": "What is your financial forecast?",
+        "options": ["Projected revenue", "expenses", "profit"],
+        "answer": "revenue"
+      },
+      {
+        "question": "What are your biggest challenges? ",
+        "options": [
+          "Funding  ",
+          "Competition",
+          "Finding and retaining employees"
+        ],
+        "answer": "Competition"
       }
     ]
   }
