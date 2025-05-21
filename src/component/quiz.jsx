@@ -41,21 +41,32 @@ const Quiz = () => {
         setSelectedOption(option);
 
         const correct = quizData[currentQuestionIndex]?.answer;
-
-        const isCorrect =
-            option?.trim().toLowerCase() === correct?.trim().toLowerCase();
-
-        if (isCorrect) {
-            setScore((prev) => prev + 1);
-        }
+        const isCorrect = option?.trim().toLowerCase() === correct?.trim().toLowerCase();
+        const nextScore = score + (isCorrect ? 1 : 0);
 
         setTimeout(() => {
-            if (currentQuestionIndex + 1 < quizData.length) {
+            const isLastQuestion = currentQuestionIndex + 1 >= quizData.length;
+
+            if (!isLastQuestion) {
                 setCurrentQuestionIndex((prev) => prev + 1);
                 setSelectedOption(null);
+                setScore(nextScore);
             } else {
-                const finalScore = score + (isCorrect ? 1 : 0);
-                setCoinsEarned(finalScore >= 5 ? 400 : 0);
+                let finalCoins = 0;
+                if (nextScore === 10) {
+                    finalCoins = 500;
+                } else if (nextScore >= 5) {
+                    finalCoins = 250;
+                } else {
+                    finalCoins = 50;
+                }
+
+                const previousCoins = parseInt(localStorage.getItem('coinReward') || '0', 10);
+                const updatedCoins = previousCoins + finalCoins;
+                localStorage.setItem('coinReward', updatedCoins);
+
+                setScore(nextScore);
+                setCoinsEarned(finalCoins);
                 setQuizFinished(true);
             }
         }, 500);
@@ -99,11 +110,6 @@ const Quiz = () => {
                         </p>
                     )}
                     <div className='flex justify-center gap-4 mt-6'>
-                        {coinsEarned > 0 && (
-                            <button className='px-5 py-2 bg-green-500 rounded text-white font-semibold text-lg'>
-                                Withdraw Coins
-                            </button>
-                        )}
                         <NavLink to={"/QuizLite"} className='px-5 py-2 bg-blue-500 rounded text-white font-semibold text-lg'>
                             Restart Quiz
                         </NavLink>

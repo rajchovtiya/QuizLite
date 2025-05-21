@@ -75,15 +75,23 @@ const QuizLite = () => {
     const formatTime = (val) => val.toString().padStart(2, '0');
 
     const data_item = (quiz) => {
-        localStorage.setItem("quiz", JSON.stringify(quiz))
+        localStorage.setItem("quiz", JSON.stringify(quiz));
+    };
 
-    }
+    const coinschange = (entry) => {
+        const previousCoins = parseInt(localStorage.getItem('coinReward') || '0', 10);
+        const entryCost = parseInt(entry, 10);
+
+        if (entryCost > 0 && previousCoins >= entryCost) {
+            const updatedCoins = previousCoins - entryCost;
+            localStorage.setItem('coinReward', updatedCoins);
+        }
+    };
 
     return (
         <>
             <Navbar />
             <Header Stors={coins} />
-
 
             <div>
                 <ul className='border-b w-full border-gray-500 h-10 mt-4 text-white flex items-end justify-around'>
@@ -147,9 +155,21 @@ const QuizLite = () => {
                                             {quiz.img && <img src={quiz.img} className='max-w-[25px]' alt="entry-icon" />}
                                             <span className='text-[14px] font-semibold'>{quiz.entry}</span>
                                         </div>
-                                        <NavLink to={"/Quizshow"}
-                                            href='#'
-                                            className='text-black text-center font-semibold text-[10px] rounded-[7px] py-[7px] px-[18px] border border-[#9015c5]' onClick={() => { data_item(quiz) }}>
+
+                                        <NavLink
+                                            to={
+                                                quiz.entry === "FREE" || parseInt(quiz.entry, 10) === 0 || parseInt(coins, 10) >= parseInt(quiz.entry, 10)
+                                                    ? "/Quizshow"
+                                                    : ""
+                                            }
+                                            className='text-black text-center font-semibold text-[10px] rounded-[7px] py-[7px] px-[18px] border border-[#9015c5]'
+                                            onClick={() => {
+                                                data_item(quiz);
+                                                if (quiz.entry !== "FREE" && parseInt(quiz.entry, 10) > 0) {
+                                                    coinschange(quiz.entry);
+                                                }
+                                            }}
+                                        >
                                             Play Now
                                         </NavLink>
                                     </div>
