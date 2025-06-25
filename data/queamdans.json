@@ -1,0 +1,1826 @@
+[
+  {
+    "id": "1",
+    "hading": "GK",
+    "que_ans": [
+      {
+        "question": "What is the capital of France",
+        "options": [
+          "Berlin",
+          "Rome",
+          "Paris"
+        ],
+        "answer": "Rome"
+      },
+      {
+        "question": "Which planet is known as the Red Planet? ",
+        "options": [
+          "Venus",
+          "Mars",
+          "Jupiter"
+        ],
+        "answer": "Venus"
+      },
+      {
+        "question": "What is the chemical symbol for water?",
+        "options": [
+          "CO2",
+          "H2O",
+          "NaCl"
+        ],
+        "answer": "NaCl"
+      },
+      {
+        "question": "Who wrote the play Hamlet? ",
+        "options": [
+          "Charles Dickens",
+          "Jane Austen",
+          "Leo Tolstoy "
+        ],
+        "answer": "Charles Dickens"
+      },
+      {
+        "question": "Which country is the largest in terms of land area? ",
+        "options": [
+          "USA",
+          "China",
+          "Russia"
+        ],
+        "answer": "Russia"
+      },
+      {
+        "question": "What is the currency of Japan?",
+        "options": [
+          "Euro",
+          "Yen",
+          "Dollar"
+        ],
+        "answer": "Yen"
+      },
+      {
+        "question": "What is the name of the longest river in the world?",
+        "options": [
+          "Amazon",
+          "Nile",
+          "Yangtze"
+        ],
+        "answer ": "Amazon"
+      },
+      {
+        "question": "Who invented the telephone",
+        "options": [
+          "Thomas Edison",
+          "Alexander Graham Bell",
+          "Nikola Tesla"
+        ],
+        "answer": "Nikola Tesla"
+      },
+      {
+        "question": "What is the national animal of India?",
+        "options": [
+          "Elephant",
+          "Tiger",
+          "Peacock"
+        ],
+        "answer": "Tiger"
+      },
+      {
+        "question": "What is the name of the largest desert in the world? ",
+        "options": [
+          "Sahara",
+          "Arabian",
+          "Antarctic"
+        ],
+        "answer": "Antarctic"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "hading": "history",
+    "que_ans": [
+      {
+        "question": "Who is known as the Father of Indian Archaeology",
+        "options": [
+          "Alexander Cunningham",
+          "R.D. Banerjee",
+          "Daya Ram Sahni"
+        ],
+        "answer": "Alexander Cunningham"
+      },
+      {
+        "question": "What was the name of the Indian empire that was known for its Ashokan pillars and inscriptions? ",
+        "options": [
+          "Gupta Empire",
+          "Maurya Empire",
+          "Mughal Empire"
+        ],
+        "answer": "Maurya Empire "
+      },
+      {
+        "question": "Which river is considered the most sacred river in Hinduism?",
+        "options": [
+          "Ganga",
+          "Yamuna",
+          "Indus"
+        ],
+        "answer": "Ganga"
+      },
+      {
+        "question": "Who wrote the famous ancient Indian text, Arthashastra?",
+        "options": [
+          "Kautilya",
+          "Patanjali",
+          "Vyasa"
+        ],
+        "answer": "Kautilya"
+      },
+      {
+        "question": "In which year did India gain independence?",
+        "options": [
+          "1947",
+          "1949",
+          "1950"
+        ],
+        "answer": "1947"
+      },
+      {
+        "question": "Who was the first Indian President?",
+        "options": [
+          "Jawaharlal Nehru",
+          "Dr. Rajendra Prasad",
+          "C. Rajagopalachari"
+        ],
+        "answer": "Dr. Rajendra Prasad "
+      },
+      {
+        "question": "Who is known as the Father of the Nation in India?",
+        "options": [
+          "Jawaharlal Nehru",
+          "Dr. Rajendra Prasad",
+          "Mahatma Gandhi "
+        ],
+        "answer": "Mahatma Gandhi "
+      },
+      {
+        "question": "What was the name of the political movement that was led by Mahatma Gandhi to achieve India's independence?",
+        "options": [
+          "Quit India Movement",
+          "Civil Disobedience Movement",
+          "All of the above"
+        ],
+        "answer": "All of the above"
+      },
+      {
+        "question": "Which city is known as the City of Palaces in India?",
+        "options": [
+          "Jaipur",
+          "Delhi",
+          "Kolkata"
+        ],
+        "answer": "Kolkata"
+      },
+      {
+        "question": "Which ancient civilization is known for its well-planned cities, standardized weights and measures, and sophisticated urban development?",
+        "options": [
+          "Egyptian civilization",
+          "Indus Valley civilization",
+          "Mesopotamian civilization  "
+        ],
+        "answer": "Indus Valley civilization"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "hading": "Maths ",
+    "que_ans": [
+      {
+        "question": "What is the area of a rectangle with a length of 10 cm and a width of 5 cm?",
+        "options": [
+          "15 cm²",
+          "20 cm²",
+          "50 cm²"
+        ],
+        "answer": "50 cm²"
+      },
+      {
+        "question": "If a number is divisible by both 2 and 3, what is the smallest possible number greater than 10?",
+        "options": [
+          "12",
+          "13",
+          "14"
+        ],
+        "answer": "12"
+      },
+      {
+        "question": "What is the value of 9 raised to the power of 2 (9²)? ",
+        "options": [
+          "8",
+          "16",
+          "81"
+        ],
+        "answer": "81"
+      },
+      {
+        "question": "What is the circumference of a circle with a radius of 7 cm (use π ≈ 3.14)? ",
+        "options": [
+          "21.98 cm",
+          "22 cm",
+          "43.96 cm"
+        ],
+        "answer": "22 cm"
+      },
+      {
+        "question": " What is the sum of the interior angles of a triangle? ",
+        "options": [
+          "90°",
+          "120°",
+          "180°"
+        ],
+        "answer": "180°"
+      },
+      {
+        "question": "If a number is divisible by 6, what is the smallest possible number greater than 50?",
+        "options": [
+          "51",
+          "52",
+          "54"
+        ],
+        "answer": "54"
+      },
+      {
+        "question": "What is the value of 2 times 300 plus 10?",
+        "options": [
+          "600",
+          "610",
+          "620 "
+        ],
+        "answer": "610"
+      },
+      {
+        "question": "What is the cube root of 8?",
+        "options": [
+          "2",
+          "4",
+          "16"
+        ],
+        "answer": "4"
+      },
+      {
+        "question": "What is the area of a triangle with a base of 8 cm and a height of 5 cm?",
+        "options": [
+          "16 cm²",
+          "20 cm²",
+          "40 cm²"
+        ],
+        "answer": "40 cm²"
+      },
+      {
+        "question": "What is the value of 100 divided by 5?",
+        "options": [
+          "20",
+          "25",
+          "10"
+        ],
+        "answer": "20"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "hading": "geography ",
+    "que_ans": [
+      {
+        "question": "What is the longest river in the world?",
+        "options": [
+          "Amazon",
+          "Nile",
+          "Yangtze"
+        ],
+        "answer": "Nile"
+      },
+      {
+        "question": "Which mountain range is known as the Roof of the World? ",
+        "options": [
+          "Alps",
+          "Andes",
+          "Himalayas"
+        ],
+        "answer": "Himalayas"
+      },
+      {
+        "question": "Which desert is located in the southwestern United States?",
+        "options": [
+          "Sahara",
+          "Gobi",
+          "Mojave"
+        ],
+        "answer": "Mojave"
+      },
+      {
+        "question": "What is the capital of Australia?",
+        "options": [
+          "Sydney",
+          "Melbourne",
+          "Canberra"
+        ],
+        "answer": "Canberra"
+      },
+      {
+        "question": "Which country is located in South America?",
+        "options": [
+          "Japan",
+          "Brazil",
+          "Canada"
+        ],
+        "answer": "Brazil"
+      },
+      {
+        "question": "What is the largest ocean on Earth?",
+        "options": [
+          "Atlantic Ocean",
+          "Indian Ocean",
+          "Pacific Ocean"
+        ],
+        "answer": "Pacific Ocean"
+      },
+      {
+        "question": "Which continent is known as the Island Continent?",
+        "options": [
+          "Asia",
+          "Africa",
+          "Australia "
+        ],
+        "answer": "Australia "
+      },
+      {
+        "question": "What is the capital of France?",
+        "options": [
+          "London",
+          "Paris",
+          "Rome"
+        ],
+        "answer": "Paris"
+      },
+      {
+        "question": "Which city is located on two continents?",
+        "options": [
+          "Moscow",
+          "Istanbul",
+          "Dubai"
+        ],
+        "answer": "Istanbul"
+      },
+      {
+        "question": "What is the name of the line that divides the Earth into the Northern and Southern Hemispheres? ",
+        "options": [
+          "Prime Meridian",
+          "Equator",
+          "Tropic of Cancer"
+        ],
+        "answer": "Equator"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "hading": "Bollywood Actresses",
+    "que_ans": [
+      {
+        "question": "Which Bollywood actress is known for her iconic dance moves in the song Chori Peeche Na Chhod from the film Dhadkan?",
+        "options": [
+          "Sonam Kapoor",
+          "Madhuri Dixit",
+          "Kareena Kapoor"
+        ],
+        "answer": "Madhuri Dixit"
+      },
+      {
+        "question": "Which Bollywood actress has been named India's Most Beautiful Woman by People magazine?",
+        "options": [
+          "Deepika Padukone",
+          "Aishwarya Rai",
+          "Priyanka Chopra"
+        ],
+        "answer": "Priyanka Chopra"
+      },
+      {
+        "question": "Which Bollywood actress has won the most Filmfare awards for Best Actress?",
+        "options": [
+          "Vidya Balan",
+          "Rekha",
+          "Kajol"
+        ],
+        "answer": "Rekha"
+      },
+      {
+        "question": "Which actress is known for her roles in Rang De Basanti and Dil Chahta Hai?",
+        "options": [
+          "Vidya Balan ",
+          "Priyanka Chopra",
+          "Aishwarya Rai"
+        ],
+        "answer": "Vidya Balan "
+      },
+      {
+        "question": "Which actress starred in the movie Dil To Pagal Hai?",
+        "options": [
+          "Kajol",
+          "Aishwarya Rai",
+          "Madhuri Dixit"
+        ],
+        "answer": "Kajol"
+      },
+      {
+        "question": "Which actress has been praised for her performance in the movie Chak De! India?",
+        "options": [
+          "Priyanka Chopra",
+          " Vidya Balan",
+          "Kajol"
+        ],
+        "answer": "Kajol"
+      },
+      {
+        "question": "Which actress is known for her roles in Dilwale Dulhania Le Jayenge and Kuch Kuch Hota Hai?",
+        "options": [
+          "Juhi Chawla",
+          "Aishwarya Rai ",
+          "Kajol "
+        ],
+        "answer": "Kajol "
+      },
+      {
+        "question": "Which actress is known for her roles in Gadar: One Indian Rebel and Dil Hai Ki Manta Na?",
+        "options": [
+          "Vidya Balan ",
+          "Priyanka Chopra",
+          "Amisha Patel"
+        ],
+        "answer": "Amisha Patel"
+      },
+      {
+        "question": "Which actress has won the National Film Award for Best Actress?",
+        "options": [
+          "Aishwarya Rai",
+          "Juhi Chawla",
+          "Priyanka Chopra"
+        ],
+        "answer": "Priyanka Chopra"
+      },
+      {
+        "question": "Which actress is known for her roles in Kaho Naa... Pyaar Hai and Hero: Heart of India?",
+        "options": [
+          "Amisha Patel ",
+          "Priyanka Chopra",
+          " Aishwarya Rai "
+        ],
+        "answer": " Aishwarya Rai "
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "hading": "Business",
+    "que_ans": [
+      {
+        "question": "What is the purpose of your business?",
+        "options": [
+          "To make money",
+          "To provide a service",
+          "To satisfy a market need"
+        ],
+        "answer": "To satisfy a market need"
+      },
+      {
+        "question": "What is your target market? ",
+        "options": [
+          "The general public",
+          "A specific demographic group",
+          "Businesses"
+        ],
+        "answer": "Businesses"
+      },
+      {
+        "question": "What is your value proposition?",
+        "options": [
+          "The price of your product/service",
+          "The unique benefits your business offers",
+          "All of the above"
+        ],
+        "answer": "The price of your product/service"
+      },
+      {
+        "question": "What is your business model?",
+        "options": [
+          "Selling products",
+          "Providing services",
+          "Subscription model "
+        ],
+        "answer": "Subscription model"
+      },
+      {
+        "question": "What is your business model?",
+        "options": [
+          "Selling products",
+          "Providing services",
+          "Subscription model"
+        ],
+        "answer": "Subscription model"
+      },
+      {
+        "question": "How will you make money?",
+        "options": [
+          "Pricing your product/service",
+          "Advertising",
+          "All of the above"
+        ],
+        "answer": "All of the above"
+      },
+      {
+        "question": "What is your competitive advantage?",
+        "options": [
+          "Lower prices",
+          "Superior quality",
+          "All of the above"
+        ],
+        "answer ": "All of the above"
+      },
+      {
+        "question": "What is your marketing strategy",
+        "options": [
+          "All of the above ",
+          "Social media marketing",
+          "Online advertising"
+        ],
+        "answer": "All of the above "
+      },
+      {
+        "question": "What is your financial forecast?",
+        "options": [
+          "Projected revenue",
+          "expenses",
+          "profit"
+        ],
+        "answer": "revenue"
+      },
+      {
+        "question": "What are your biggest challenges? ",
+        "options": [
+          "Funding  ",
+          "Competition",
+          "Finding and retaining employees"
+        ],
+        "answer": "Competition"
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "hading": "Science",
+    "que_ans": [
+      {
+        "question": "What is the process by which plants make their own food?",
+        "options": [
+          "Respiration",
+          "Photosynthesis",
+          "Digestion"
+        ],
+        "answer": "Digestion"
+      },
+      {
+        "question": "What is the main gas that living creatures need to breathe? ",
+        "options": [
+          "Nitrogen",
+          "Oxygen",
+          "Hydrogen"
+        ],
+        "answer": "Oxygen"
+      },
+      {
+        "question": "What is the boiling point of water in Celsius?",
+        "options": [
+          "212 degrees",
+          "100 degrees",
+          "32 degrees"
+        ],
+        "answer": "100 degrees"
+      },
+      {
+        "question": "Which planet is known as the Red Planet?",
+        "options": [
+          "Venus",
+          "Mars",
+          "Jupiter"
+        ],
+        "answer": "Mars"
+      },
+      {
+        "question": "What is the force that pulls objects towards the Earth?",
+        "options": [
+          "Friction",
+          "Electricity",
+          "Gravity"
+        ],
+        "answer": "Friction"
+      },
+      {
+        "question": "What is the main organ of the human body responsible for pumping blood?",
+        "options": [
+          "Lungs",
+          "Liver",
+          "Heart"
+        ],
+        "answer": "Heart"
+      },
+      {
+        "question": "What part of a plant absorbs water and nutrients from the soil?",
+        "options": [
+          "Stem",
+          "Leaves",
+          "Roots"
+        ],
+        "answer ": "Leaves"
+      },
+      {
+        "question": "What is the hardest natural substance on Earth?",
+        "options": [
+          "Diamond",
+          "Gold",
+          "Steel"
+        ],
+        "answer": "Diamond"
+      },
+      {
+        "question": "What does DNA stand for?",
+        "options": [
+          "Deoxyribonucleic",
+          "Deoxyribose Nucleic",
+          "Deoxyribonucleic"
+        ],
+        "answer": "Deoxyribonucleic"
+      },
+      {
+        "question": "What is the most abundant gas in the Earth's atmosphere?",
+        "options": [
+          "Oxygen",
+          "Carbon Dioxide",
+          "Nitrogen"
+        ],
+        "answer": "Oxygen"
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "hading": "SSC",
+    "que_ans": [
+      {
+        "question": "What is the national animal of India?",
+        "options": [
+          "Elephant",
+          "Tiger",
+          "Lion"
+        ],
+        "answer": "Tiger"
+      },
+      {
+        "question": "Who is the current Prime Minister of India?",
+        "options": [
+          "Narendra Modi",
+          "Sonia Gandhi",
+          "Arvind Kejriwal"
+        ],
+        "answer": "Arvind Kejriwal"
+      },
+      {
+        "question": "Which planet is known as the Red Planet? ",
+        "options": [
+          "Mars",
+          "Jupiter",
+          "Saturn"
+        ],
+        "answer": "Jupiter"
+      },
+      {
+        "question": "What is the capital of Japan?",
+        "options": [
+          "Seoul",
+          "Beijing",
+          "Tokyo"
+        ],
+        "answer": "Tokyo"
+      },
+      {
+        "question": "Who wrote the novel Pride and Prejudice?",
+        "options": [
+          "Jane Austen",
+          "Charles Dickens",
+          "Leo Tolstoy"
+        ],
+        "answer": "Leo Tolstoy"
+      },
+      {
+        "question": "Which river is known as the Sorrow of Bengal?",
+        "options": [
+          "Ganga",
+          "Brahmaputra",
+          "Damodar"
+        ],
+        "answer": "Heart"
+      },
+      {
+        "question": "What is the national currency of India?",
+        "options": [
+          "Dollar",
+          "Euro",
+          "Rupee"
+        ],
+        "answer ": "Euro"
+      },
+      {
+        "question": "Which is the largest desert in the world?",
+        "options": [
+          "Sahara",
+          "Gobi",
+          "Thar"
+        ],
+        "answer": "Sahara"
+      },
+      {
+        "question": "What is the chemical symbol for water?",
+        "options": [
+          "H₂O",
+          "CO₂",
+          "O₂"
+        ],
+        "answer": "O₂"
+      },
+      {
+        "question": "What is the national flower of India?",
+        "options": [
+          "Lotus",
+          "Rose",
+          "Tulip"
+        ],
+        "answer": "Lotus"
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "hading": "Food",
+    "que_ans": [
+      {
+        "question": " What is a common ingredient in Indian curries?",
+        "options": [
+          "Cumin",
+          "Basil",
+          "Mint"
+        ],
+        "answer": "Mint"
+      },
+      {
+        "question": "Which fruit is known for its high vitamin C content? ",
+        "options": [
+          "Banana",
+          "Apple",
+          "Orange"
+        ],
+        "answer": "Apple"
+      },
+      {
+        "question": "What type of dairy product is yogurt?",
+        "options": [
+          "Fruit",
+          "Vegetable",
+          "Meat"
+        ],
+        "answer": "Fruit"
+      },
+      {
+        "question": "Which vegetable is part of the cabbage family?",
+        "options": [
+          "Carrot",
+          "Potato",
+          "Broccoli"
+        ],
+        "answer": "Carrot"
+      },
+      {
+        "question": "What is the main ingredient in pizza dough?",
+        "options": [
+          "Flour",
+          "Sugar",
+          "Eggs"
+        ],
+        "answer": "Sugar"
+      },
+      {
+        "question": "What is a common way to cook meat?",
+        "options": [
+          "Baking",
+          "Roasting",
+          "Sautéing"
+        ],
+        "answer": "Heart"
+      },
+      {
+        "question": "What is a popular snack made from baked or fried potatoes?",
+        "options": [
+          "Salad",
+          "Chips",
+          "Noodles"
+        ],
+        "answer ": "Noodles"
+      },
+      {
+        "question": "What type of food is a sandwich?",
+        "options": [
+          "Drink",
+          "Dessert",
+          "Main course"
+        ],
+        "answer": "Main course"
+      },
+      {
+        "question": "What is the main ingredient in sushi?",
+        "options": [
+          "Rice",
+          "Noodles",
+          "Meat"
+        ],
+        "answer": "Meat"
+      },
+      {
+        "question": "What type of beverage is tea?",
+        "options": [
+          "Juice",
+          "Milk",
+          "Hot drink"
+        ],
+        "answer": "Hot drink"
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "hading": "Bank PO & Clerk",
+    "que_ans": [
+      {
+        "question": " What does the acronym RBI stand for?",
+        "options": [
+          "Royal Bank of India",
+          "Reserve Bank of India",
+          "Re-payment Bank of India"
+        ],
+        "answer": "Re-payment Bank of India"
+      },
+      {
+        "question": "Which of the following is a primary function of a bank?",
+        "options": [
+          "Providing financial advice",
+          "Selling insurance products",
+          "Managing real estate"
+        ],
+        "answer": "Selling insurance products"
+      },
+      {
+        "question": "What is the main purpose of a cheque?",
+        "options": [
+          " A type of loan agreement",
+          " A written order to pay money",
+          "A form of digital payment"
+        ],
+        "answer": "A form of digital payment"
+      },
+      {
+        "question": "What is the term for the interest rate charged by the RBI to commercial banks?",
+        "options": [
+          "Base Rate",
+          "Prime Lending Rate",
+          "Repo Rate"
+        ],
+        "answer": "Prime Lending Rate"
+      },
+      {
+        "question": "What is the meaning of GDP?",
+        "options": [
+          "Gross Domestic Product",
+          "Global Development Program",
+          "General Distribution Plan"
+        ],
+        "answer": "General Distribution Plan"
+      },
+      {
+        "question": "What does SWIFT stand for in banking?",
+        "options": [
+          "Secure World Internet Finance Transfer",
+          "Society for Worldwide Interbank Financial Telecommunication",
+          "Smart World Information and Finance Terminal"
+        ],
+        "answer": "Smart World Information and Finance Terminal"
+      },
+      {
+        "question": "What is the term for a bank's promise to pay a certain amount of money at a later date?",
+        "options": [
+          "Deposit",
+          "Cheque",
+          "Loan"
+        ],
+        "answer ": "Loan"
+      },
+      {
+        "question": "What is the meaning of inflation?",
+        "options": [
+          "A decrease in the general price level",
+          "A decrease in the value of money",
+          "None of the above"
+        ],
+        "answer": "None of the above"
+      },
+      {
+        "question": "What is the term for a bank's promise to repay a certain amount of money to a depositor?",
+        "options": [
+          "Loan",
+          "Deposit",
+          "Cheque"
+        ],
+        "answer": "Deposit"
+      },
+      {
+        "question": "What is the main purpose of a debit card?",
+        "options": [
+          "To provide cash withdrawals",
+          "To invest money in a business",
+          "To obtain a loan from a bank"
+        ],
+        "answer": "To invest money in a business"
+      }
+    ]
+  },
+  {
+    "id": "11",
+    "hading": "Tech",
+    "que_ans": [
+      {
+        "question": "What is the primary function of a CPU?",
+        "options": [
+          "To store data permanently",
+          "To process instructions and execute programs",
+          "To display information on the screen"
+        ],
+        "answer": "Mint"
+      },
+      {
+        "question": "What does RAM stand for?",
+        "options": [
+          "Read-Only Memory",
+          "Random Access Memory",
+          "Running Algorithm Memory"
+        ],
+        "answer": "Apple"
+      },
+      {
+        "question": "Which of the following is a common operating system? ",
+        "options": [
+          "Java",
+          "HTML",
+          "Windows"
+        ],
+        "answer": "Windows"
+      },
+      {
+        "question": " What does an algorithm do?",
+        "options": [
+          "Is a type of software",
+          "Is a type of computer hardware",
+          "Is a type of network protocol "
+        ],
+        "answer": "Is a type of computer hardware"
+      },
+      {
+        "question": "What is a firewall used for?",
+        "options": [
+          "To store data",
+          "To connect to the internet",
+          "To process images "
+        ],
+        "answer": "Sugar"
+      },
+      {
+        "question": "What does HTML stand for?",
+        "options": [
+          "Hyper Text Markup Language",
+          "High-Tech Markup Language",
+          "Human Technology Markup Language"
+        ],
+        "answer": "Heart"
+      },
+      {
+        "question": "What is an API?",
+        "options": [
+          "A type of computer virus",
+          "A type of database",
+          "A type of network protocol "
+        ],
+        "answer ": "Noodles"
+      },
+      {
+        "question": "What is a common programming language used for web development?",
+        "options": [
+          "Java",
+          "Python",
+          "CSS"
+        ],
+        "answer": "Python"
+      },
+      {
+        "question": "What is cloud computing?",
+        "options": [
+          "Accessing software and services over the internet",
+          "Storing data on a physical server",
+          "Creating computer games"
+        ],
+        "answer": "Storing data on a physical server"
+      },
+      {
+        "question": "What is a VPN used for?",
+        "options": [
+          "JuTo send and receive emailsice",
+          " To connect to the internet",
+          "To create websites"
+        ],
+        "answer": "To create websites"
+      }
+    ]
+  },
+  {
+    "id": "12",
+    "hading": "10+2 Entrance",
+    "que_ans": [
+      {
+        "question": "What is the capital of France?",
+        "options": [
+          "London",
+          "Rome",
+          "Paris"
+        ],
+        "answer": "Rome"
+      },
+      {
+        "question": "Which planet is known as the Red Planet?",
+        "options": [
+          "Mars",
+          "Venus",
+          "Jupiter"
+        ],
+        "answer": "Mars"
+      },
+      {
+        "question": "What is the chemical symbol for water?",
+        "options": [
+          "O2",
+          "H2O",
+          "CO2"
+        ],
+        "answer": "CO2"
+      },
+      {
+        "question": "Who wrote Hamlet?",
+        "options": [
+          "William Shakespeare",
+          "Charles Dickens",
+          "Leo Tolstoy"
+        ],
+        "answer": "Charles Dickens"
+      },
+      {
+        "question": "Which country is known as the Land of the Rising Sun?",
+        "options": [
+          "China",
+          "Russia",
+          "India"
+        ],
+        "answer": "India"
+      },
+      {
+        "question": "What is the boiling point of water in Celsius?",
+        "options": [
+          "212°C",
+          "0°C",
+          "32°C"
+        ],
+        "answer": "212°C"
+      },
+      {
+        "question": "Which gas do plants need for photosynthesis?",
+        "options": [
+          "Oxygen",
+          "Nitrogen",
+          "Hydrogen"
+        ],
+        "answer ": "Nitrogen"
+      },
+      {
+        "question": "What is the opposite of hot?",
+        "options": [
+          "Wet",
+          "Warm",
+          "Cold"
+        ],
+        "answer": "Cold"
+      },
+      {
+        "question": "What shape has four equal sides?",
+        "options": [
+          "Triangle",
+          "Square",
+          "Rectangle"
+        ],
+        "answer": "Triangle"
+      },
+      {
+        "question": "Which animal is known as the king of the jungle?",
+        "options": [
+          "Tiger",
+          "Lion",
+          "Elephant"
+        ],
+        "answer": "Elephant"
+      }
+    ]
+  },
+  {
+    "id": "13",
+    "hading": "Sports",
+    "que_ans": [
+      {
+        "question": "Which sport involves hitting a ball with a bat over a line? ",
+        "options": [
+          "Football",
+          "Cricket",
+          "Basketball"
+        ],
+        "answer": "Cricket"
+      },
+      {
+        "question": "What sport is played on a tennis court with a racket and a ball?",
+        "options": [
+          "Badminton",
+          "Soccer",
+          "Tennis"
+        ],
+        "answer": "Tennis"
+      },
+      {
+        "question": "Which sport involves kicking a ball into a goal using your feet? ",
+        "options": [
+          "Basketball",
+          "Football",
+          "Hockey"
+        ],
+        "answer": "Football"
+      },
+      {
+        "question": "What sport is played on a court with a net and a ball, where players use their hands to score?",
+        "options": [
+          "Volleyball",
+          "Basketball",
+          "Badminton"
+        ],
+        "answer": "Volleyball"
+      },
+      {
+        "question": "What sport is played on a field with two teams using sticks to shoot a ball into a goal?",
+        "options": [
+          "Hockey",
+          "Basketball",
+          "Soccer"
+        ],
+        "answer": "Hockey"
+      },
+      {
+        "question": "Which sport involves throwing a ball in the air and catching it, with teams alternating turns?",
+        "options": [
+          "Baseball",
+          "Football",
+          "Cricket"
+        ],
+        "answer": "Cricket"
+      },
+      {
+        "question": " Which sport involves hitting a ball with a racquet, and it is played on a court with a net? ",
+        "options": [
+          "Badminton",
+          "Tennis",
+          "Volleyball"
+        ],
+        "answer ": "Badminton"
+      },
+      {
+        "question": " What sport involves using a ball and sticks to score goals in a field?",
+        "options": [
+          "Hockey",
+          "Cricket",
+          "Baseball"
+        ],
+        "answer": "Hockey"
+      },
+      {
+        "question": "What sport involves hitting a ball with a paddle over a net? ",
+        "options": [
+          "Tennis",
+          "Badminton",
+          "Table Tennis"
+        ],
+        "answer": "Table Tennis"
+      },
+      {
+        "question": "Which sport involves using a ball and a stick to score goals in a rink? ",
+        "options": [
+          "Hockey",
+          "Soccer",
+          "Baseball"
+        ],
+        "answer": "Hockey"
+      }
+    ]
+  },
+  {
+    "id": "14",
+    "hading": "Cricket Records",
+    "que_ans": [
+      {
+        "question": "Which country is considered the birthplace of cricket?",
+        "options": [
+          "India",
+          "Australia",
+          "England"
+        ],
+        "answer": "England"
+      },
+      {
+        "question": "How many players are there in each cricket team on the field during a match? ",
+        "options": [
+          "8",
+          "10",
+          "12"
+        ],
+        "answer": "10"
+      },
+      {
+        "question": "What is the name of the three wooden stumps topped by two bails?",
+        "options": [
+          "Wicket",
+          "Pitch",
+          "Boundary"
+        ],
+        "answer": "Wicket"
+      },
+      {
+        "question": "Which format of cricket involves a maximum of 50 overs per side?",
+        "options": [
+          "Test Match",
+          "One Day International",
+          "Twenty20"
+        ],
+        "answer": "One Day International"
+      },
+      {
+        "question": "Which player has taken the most catches in Test cricket?",
+        "options": [
+          "Hockey",
+          "Basketball",
+          "Soccer"
+        ],
+        "answer": "Hockey"
+      },
+      {
+        "question": "Which sport involves throwing a ball in the air and catching it, with teams alternating turns?",
+        "options": [
+          "Rahul Dravid",
+          "Mark Boucher",
+          "Steve Waugh"
+        ],
+        "answer": "Rahul Dravid"
+      },
+      {
+        "question": "Which player has scored the most sixes in ODIs?",
+        "options": [
+          "Rohit Sharma",
+          "Chris Gayle",
+          "Virat Kohli "
+        ],
+        "answer ": "Virat Kohli "
+      },
+      {
+        "question": "Which player has taken the most wickets in ODIs?",
+        "options": [
+          "Glenn McGrath",
+          "Muttiah Muralitharan",
+          "Shane Warne"
+        ],
+        "answer": "Muttiah Muralitharan"
+      },
+      {
+        "question": "Which team has won the most ODI Cricket World Cup titles?",
+        "options": [
+          "Australia",
+          "India",
+          "England"
+        ],
+        "answer": "Australia"
+      },
+      {
+        "question": "Which player has scored the most runs in a single ODI innings?",
+        "options": [
+          "Belinda Clark",
+          "The Ashes",
+          "Virat Kohli"
+        ],
+        "answer": "Kumar Sangakkara"
+      }
+    ]
+  },
+  {
+    "id": "14",
+    "hading": "Test Cricket",
+    "que_ans": [
+      {
+        "question": "What is the traditional name for the rectangular clay strip on which Test cricket is played?",
+        "options": [
+          "Pitch",
+          "Wicket",
+          "Boundary"
+        ],
+        "answer": "England"
+      },
+      {
+        "question": "What is the maximum number of wickets a team can lose in Test cricket?",
+        "options": [
+          "8",
+          "10",
+          "12"
+        ],
+        "answer": "10"
+      },
+      {
+        "question": "What is the name of the three wooden stumps topped by two bails?",
+        "options": [
+          "Wicket",
+          "Pitch",
+          "Boundary"
+        ],
+        "answer": "Wicket"
+      },
+      {
+        "question": "Which bowler has taken the most wickets in Test cricket history?",
+        "options": [
+          "Glenn McGrath",
+          "Muttiah Muralitharan",
+          "Shane Warne"
+        ],
+        "answer": "Glenn McGrath"
+      },
+      {
+        "question": "How many overs are allowed in a Test match per innings?",
+        "options": [
+          "90",
+          "50",
+          "20"
+        ],
+        "answer": "90"
+      },
+      {
+        "question": "What is the term for a batter scoring 100 runs or more in a single innings? ",
+        "options": [
+          "Century",
+          "Half-century",
+          "Fifty"
+        ],
+        "answer": "Century"
+      },
+      {
+        "question": "What is the traditional color of the cricket ball used in Test cricket?",
+        "options": [
+          "Red",
+          "White",
+          "Orange"
+        ],
+        "answer ": "Red"
+      },
+      {
+        "question": "Which player has taken the most wickets in ODIs?",
+        "options": [
+          "Glenn McGrath",
+          "Muttiah Muralitharan",
+          "Shane Warne"
+        ],
+        "answer": "Muttiah Muralitharan"
+      },
+      {
+        "question": "What is the term for a batter being dismissed by the ball hitting their leg and being ruled out? ",
+        "options": [
+          "Bowled",
+          "LBW",
+          "Stumped"
+        ],
+        "answer": "Australia"
+      },
+      {
+        "question": "Which player has scored the most runs in a single ODI innings?",
+        "options": [
+          "Belinda Clark",
+          "Kumar Sangakkara",
+          "Virat Kohli"
+        ],
+        "answer": "Kumar Sangakkara"
+      }
+    ]
+  },
+  {
+    "id": "15",
+    "hading": "Cricket Knowledge",
+    "que_ans": [
+      {
+        "question": " What is the name of the field where cricket is played?",
+        "options": [
+          "Pitch",
+          "Square",
+          "Wicket"
+        ],
+        "answer": "Pitch"
+      },
+      {
+        "question": "How many players are there in a cricket team?",
+        "options": [
+          "8",
+          "11",
+          "12"
+        ],
+        "answer": "11"
+      },
+      {
+        "question": "What is the name of the trophy awarded to the winner of the Cricket World Cup?",
+        "options": [
+          "The Ashes",
+          "The Champions Trophy",
+          "The Oval Trophy"
+        ],
+        "answer": "The Ashes"
+      },
+      {
+        "question": "What is the term for dismissing a batsman when the ball hits the stumps?",
+        "options": [
+          "Out",
+          "Bowled",
+          "Caught"
+        ],
+        "answer": "Bowled"
+      },
+      {
+        "question": "How many bails are there on the wicket?",
+        "options": [
+          "90",
+          "50",
+          "20"
+        ],
+        "answer": "90"
+      },
+      {
+        "question": " What is the name of the long, flat, rectangular strip of grass where the bowling and batting action takes place?",
+        "options": [
+          "Pitch",
+          "Wicket",
+          "Boundary"
+        ],
+        "answer": "Pitch"
+      },
+      {
+        "question": "What is the traditional color of the cricket ball used in Test cricket?",
+        "options": [
+          "Red",
+          "White",
+          "Orange"
+        ],
+        "answer ": "Red"
+      },
+      {
+        "question": "What is the term for a dismissal where a batsman is caught by a fielder in the air?",
+        "options": [
+          "Bowled",
+          "LBW",
+          "Caught"
+        ],
+        "answer": "Caught"
+      },
+      {
+        "question": "What is the term for a run scored by the batsman when the ball is hit to the boundary without it being caught or hit the stumps?",
+        "options": [
+          "Boundary",
+          "Over",
+          "No-ball"
+        ],
+        "answer": "Boundary"
+      },
+      {
+        "question": "What is the name of the series of Test matches played between England and Australia?",
+        "options": [
+          "The World Cup",
+          "The Ashes",
+          " The Oval Trophy"
+        ],
+        "answer": "The Ashes"
+      }
+    ]
+  },
+  {
+    "id": "16",
+    "hading": "IPL",
+    "que_ans": [
+      {
+        "question": "Which team has won the most IPL titles?",
+        "options": [
+          "Chennai Super Kings",
+          "Mumbai Indians",
+          "Kolkata Knight Riders"
+        ],
+        "answer": "Mumbai Indians"
+      },
+      {
+        "question": "Which player holds the record for the most runs in IPL history?",
+        "options": [
+          "Rohit Sharma",
+          "Virat Kohli",
+          "Sachin Tendulkar"
+        ],
+        "answer": "Virat Kohli"
+      },
+      {
+        "question": "What does IPL stand for?",
+        "options": [
+          "Indian Premier League",
+          "lndian Professional League",
+          "Indian Players League"
+        ],
+        "answer": "Indian Players League"
+      },
+      {
+        "question": "In which year was the first IPL tournament held?",
+        "options": [
+          "2005",
+          "2006",
+          "2008"
+        ],
+        "answer": "2008"
+      },
+      {
+        "question": "Which bowler holds the record for the most wickets in IPL history?",
+        "options": [
+          "Jasprit Bumrah",
+          "Yuzvendra Chahal",
+          "Ravichandran Ashwin"
+        ],
+        "answer": "Yuzvendra Chahal"
+      },
+      {
+        "question": "How many teams participated in the inaugural IPL season?",
+        "options": [
+          "8",
+          "10",
+          "12"
+        ],
+        "answer": "8"
+      },
+      {
+        "question": "Which team won the IPL title in 2023?",
+        "options": [
+          "Chennai Super Kings",
+          "Mumbai Indians",
+          "Gujarat Titans"
+        ],
+        "answer ": "Chennai Super Kings"
+      },
+      {
+        "question": "What is the full form of SRH in IPL?",
+        "options": [
+          "Sun Rises Hyderabad",
+          "Sunrisers Hyderabad",
+          "Sun Rises of Hyderabad"
+        ],
+        "answer": "Sunrisers Hyderabad"
+      },
+      {
+        "question": "Which city is the home ground of Royal Challengers Bangalore (RCB)?",
+        "options": [
+          "Mumbai",
+          "Bangalore",
+          "No-Delhi"
+        ],
+        "answer": "Bangalore"
+      },
+      {
+        "question": "Which of these players is known for his aggressive batting style in IPL?",
+        "options": [
+          "Virat Kohli",
+          "Hardik Pandya",
+          " Chris Gayle"
+        ],
+        "answer": "Virat Kohli"
+      }
+    ]
+  },
+  {
+    "id": "16",
+    "hading": "World Cup",
+    "que_ans": [
+      {
+        "question": "Which country won the first ever FIFA World Cup in 1930?",
+        "options": [
+          "Brazil",
+          "Germany",
+          "Germany"
+        ],
+        "answer": "Germany"
+      },
+      {
+        "question": "The FIFA World Cup is a tournament for which sport?",
+        "options": [
+          "Cricket",
+          "Football (Soccer)",
+          "Rugby"
+        ],
+        "answer": "Cricket"
+      },
+      {
+        "question": "What is the name of the trophy awarded to the winner of the FIFA World Cup? ",
+        "options": [
+          "The Ashes",
+          "The Jules Rimet Trophy",
+          "The Stanley Cup"
+        ],
+        "answer": "The Stanley Cup"
+      },
+      {
+        "question": "Which country has won the most FIFA World Cup titles?",
+        "options": [
+          "Germany",
+          "Germany",
+          "Brazil"
+        ],
+        "answer": "Brazil"
+      },
+      {
+        "question": "In which year did the FIFA World Cup take place in South Africa?",
+        "options": [
+          "2006",
+          "2010",
+          "2014"
+        ],
+        "answer": "Chahal"
+      },
+      {
+        "question": "How many teams participated in the inaugural IPL season?",
+        "options": [
+          "8",
+          "10",
+          "12"
+        ],
+        "answer": "8"
+      },
+      {
+        "question": "Which team won the 2022 FIFA World Cup?",
+        "options": [
+          "France",
+          "Argentina",
+          "Brazil"
+        ],
+        "answer ": "Argentina"
+      },
+      {
+        "question": "Which country won the Cricket World Cup the most times?",
+        "options": [
+          "India",
+          "Pakistan",
+          "Australia"
+        ],
+        "answer": "Australia"
+      },
+      {
+        "question": "Which country is hosting the 2026 FIFA World Cup?",
+        "options": [
+          "Russia",
+          "Qatar",
+          "Brazil"
+        ],
+        "answer": "Qatar"
+      },
+      {
+        "question": " Which country won the inaugural ICC Cricket World Cup in 1975?",
+        "options": [
+          "England",
+          "Australia",
+          "India"
+        ],
+        "answer": "India"
+      }
+    ]
+  },
+  {
+    "id": "17",
+    "hading": "World Cup",
+    "que_ans": [
+      {
+        "question": "Which Indian cricketer is known as the God of Cricket?",
+        "options": [
+          "Virat Kohli",
+          "MS Dhoni",
+          "Rohit Sharma"
+        ],
+        "answer": "Virat Kohli"
+      },
+      {
+        "question": "Which Indian team has won the Cricket World Cup the most times?",
+        "options": [
+          "India",
+          "Pakistan",
+          "Australia"
+        ],
+        "answer": "India"
+      },
+      {
+        "question": "Who was the captain of the Indian team that won the 1983 Cricket World Cup?",
+        "options": [
+          "Kapil Dev",
+          "Sachin Tendulkar",
+          "Virat Kohli"
+        ],
+        "answer": "Kapil Dev"
+      },
+      {
+        "question": "Who is the current captain of the Indian men's cricket team?",
+        "options": [
+          "Virat Kohli",
+          "MS Dhoni",
+          "Rohit Sharma"
+        ],
+        "answer": "Virat Kohli"
+      },
+      {
+        "question": " What is the nickname given to the Indian cricket team?",
+        "options": [
+          "The Men in Blue",
+          "The Lions",
+          "The Team of Stars"
+        ],
+        "answer": "The Team of Stars"
+      },
+      {
+        "question": "In what year did India play its first Test match?",
+        "options": [
+          "1932",
+          "1930",
+          "1931"
+        ],
+        "answer": "1932"
+      },
+      {
+        "question": "How many times has India won the Asia Cup?",
+        "options": [
+          "5",
+          "7",
+          "8"
+        ],
+        "answer ": "8"
+      },
+      {
+        "question": " Who is the highest run-scorer in the history of the ICC Cricket World Cup?",
+        "options": [
+          "Virat Kohli",
+          "Sachin Tendulkar",
+          "MS Dhoni"
+        ],
+        "answer": "Virat Kohli"
+      },
+      {
+        "question": "What is the name of the field where the bowler runs to deliver the ball?",
+        "options": [
+          "The wicket",
+          "The crease",
+          "The pitch"
+        ],
+        "answer": "The wicket"
+      },
+      {
+        "question": " Which country won the inaugural ICC Cricket World Cup in 1975?",
+        "options": [
+          "England",
+          "Australia",
+          "India"
+        ],
+        "answer": "India"
+      }
+    ]
+  }
+]

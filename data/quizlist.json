@@ -1,0 +1,272 @@
+[
+    {
+        "hading": "tab1",
+        "tab1": [
+            {
+                "id": 1,
+                "mainimg": "https://fetocdn.qureka.com/storage/import/categories/20210308_121250_JEOyj.png",
+                "title": "General Knowledge",
+                "subject": "GK",
+                "Winner": 60000,
+                "duration": 18000,
+                "img": "https://fetocdn.qureka.com/assets/newui_assets/newui/images/coinstack.png",
+                "entry": 30
+            },
+            {
+                "id": 2,
+                "mainimg": "https://fetocdn.qureka.com/storage/import/categories/20210308_122446_W97h2.png",
+                "title": "History",
+                "subject": "History",
+                "Winner": 5000,
+                "duration": 7200,
+                "img": "",
+                "entry": "FREE"
+            },
+            {
+                "id": 3,
+                "mainimg": "https://fetocdn.qureka.com/storage/import/categories/20210308_122407_9LC2E.png",
+                "title": "Geography",
+                "subject": "Geography",
+                "Winner": 5000,
+                "duration": 5400,
+                "img": "https://fetocdn.qureka.com/assets/newui_assets/newui/images/coinstack.png",
+                "entry": 10
+            },
+            {
+                "id": 4,
+                "mainimg": "https://fetocdn.qureka.com/storage/import/categories/20210308_122425_odlXT.png",
+                "title": "Maths",
+                "subject": "Maths",
+                "Winner": 10000,
+                "duration": 3600,
+                "img": "https://fetocdn.qureka.com/assets/newui_assets/newui/images/coinstack.png",
+                "entry": 20
+            },
+            {
+                "id": 5,
+                "mainimg": "https://fetocdn.qureka.com/storage/import/categories/20210308_122446_W97h2.png",
+                "title": "History",
+                "subject": "History",
+                "Winner": 5000,
+                "duration": 10000,
+                "img": "https://fetocdn.qureka.com/assets/newui_assets/newui/images/coinstack.png",
+                "entry": 10
+            },
+            {
+                "id": 6,
+                "mainimg": "https://fetocdn.qureka.com/storage/import/categories/20210308_122512_DTYml.png",
+                "title": "Bollywood Actresses",
+                "subject": "Bollywood Actresses",
+                "Winner": 5000,
+                "duration": 15000,
+                "img": "",
+                "entry": "FREE"
+            },
+            {
+                "id": 7,
+                "mainimg": "https://fetocdn.qureka.com/storage/import/categories/20210308_122536_cAfHU.png",
+                "title": "Business",
+                "subject": "Business",
+                "Winner": 5000,
+                "duration": 18000,
+                "img": "https://fetocdn.qureka.com/assets/newui_assets/newui/images/coinstack.png",
+                "entry": 10
+            },
+            {
+                "id": 8,
+                "mainimg": "https://fetocdn.qureka.com/storage/import/categories/20210308_122555_wM8f9.png",
+                "title": "Science",
+                "subject": "Science",
+                "Winner": 10000,
+                "duration": 10000,
+                "img": "https://fetocdn.qureka.com/assets/newui_assets/newui/images/coinstack.png",
+                "entry": 20
+            },
+            {
+                "id": 9,
+                "mainimg": "https://fetocdn.qureka.com/storage/import/categories/20210308_122512_DTYml.png",
+                "title": "Bollywood Actresses",
+                "subject": "Bollywood Actresses",
+                "Winner": 5000,
+                "duration": 15000,
+                "img": "",
+                "entry": "FREE"
+            },
+            {
+                "id": 10,
+                "mainimg": "https://fetocdn.qureka.com/storage/import/categories/20210308_122536_cAfHU.png",
+                "title": "Business",
+                "subject": "Business",
+                "Winner": 10000,
+                "duration": 10000,
+                "img": "https://fetocdn.qureka.com/assets/newui_assets/newui/images/coinstack.png",
+                "entry": 20
+            },
+            {
+                "id": 11,
+                "mainimg": "https://fetocdn.qureka.com/storage/import/categories/20210308_122555_wM8f9.png",
+                "title": "Science ",
+                "subject": "Science ",
+                "Winner": 5000,
+                "duration": 13000,
+                "img": "https://fetocdn.qureka.com/assets/newui_assets/newui/images/coinstack.png",
+                "entry": 10
+            },
+            {
+                "id": 12,
+                "mainimg": "https://fetocdn.qureka.com/storage/import/categories/20210308_122618_kuIhK.png",
+                "title": "SSC",
+                "subject": "SSC",
+                "Winner": 10000,
+                "duration": 10000,
+                "img": "https://fetocdn.qureka.com/assets/newui_assets/newui/images/coinstack.png",
+                "entry": 20
+            },
+            {
+                "id": 13,
+                "mainimg": "https://fetocdn.qureka.com/storage/import/categories/20210308_120731_68a7x.png",
+                "title": "Food",
+                "subject": "Food",
+                "Winner": 10000,
+                "duration": 10000,
+                "img": "https://fetocdn.qureka.com/assets/newui_assets/newui/images/coinstack.png",
+                "entry": 10
+            },
+            {
+                "id": 14,
+                "mainimg": "https://fetocdn.qureka.com/storage/import/categories/20210308_122712_MLw5T.jpg",
+                "title": "Bank PO & Clerk",
+                "subject": "Banking ",
+                "Winner": 10000,
+                "duration": 12000,
+                "img": "https://fetocdn.qureka.com/assets/newui_assets/newui/images/coinstack.png",
+                "entry": 10
+            },
+            {
+                "id": 15,
+                "mainimg": "https://fetocdn.qureka.com/storage/import/categories/20210308_120805_P8nOm.png",
+                "title": "Tech",
+                "subject": "Tech ",
+                "Winner": 5000,
+                "duration": 7500,
+                "img": "https://fetocdn.qureka.com/assets/newui_assets/newui/images/coinstack.png",
+                "entry": 10
+            },
+            {
+                "id": 16,
+                "mainimg": "https://fetocdn.qureka.com/storage/import/categories/20210308_122741_FqqVS.jpg",
+                "title": "10+2 Entrance",
+                "subject": "10+2 Entrance",
+                "Winner": 10000,
+                "duration": 12000,
+                "img": "https://fetocdn.qureka.com/assets/newui_assets/newui/images/coinstack.png",
+                "entry": 20
+            },
+            {
+                "id": 17,
+                "mainimg": "https://fetocdn.qureka.com/storage/import/categories/20210308_120851_Y6xzq.png",
+                "title": "Sports",
+                "subject": "Sports",
+                "Winner": 10000,
+                "duration": 12000,
+                "img": "",
+                "entry": "FREE"
+            },
+            {
+                "id": 18,
+                "mainimg": "https://fetocdn.qureka.com/storage/import/categories/20210308_122741_FqqVS.jpg",
+                "title": "Food",
+                "subject": "Food",
+                "Winner": 5000,
+                "duration": 5000,
+                "img": "https://fetocdn.qureka.com/storage/import/categories/20210308_120731_68a7x.png",
+                "entry": 10
+            }
+        ]
+    },
+    {
+        "hading": "tab2",
+        "tab1": [
+            {
+                "id": 1,
+                "mainimg": "https://fetocdn.qureka.com/storage/import/categories/20210308_123404_XPmk8.png",
+                "title": "Cricket Records",
+                "subject": "Cricket Records ",
+                "Winner": 5000,
+                "duration": 1000,
+                "img": "https://fetocdn.qureka.com/assets/newui_assets/newui/images/coinstack.png",
+                "entry": 50
+            },
+            {
+                "id": 2,
+                "mainimg": "https://fetocdn.qureka.com/storage/import/categories/20210308_123437_kRiQU.png",
+                "title": "Test Cricket",
+                "subject": "Test Cricket",
+                "Winner": 3000,
+                "duration": 7200,
+                "img": "",
+                "entry": "FREE"
+            },
+            {
+                "id": 3,
+                "mainimg": "https://fetocdn.qureka.com/storage/import/categories/20210308_123512_0hS7x.png",
+                "title": "Cricket Knowledge",
+                "subject": "Cricket Knowledge",
+                "Winner": 4000,
+                "duration": 5400,
+                "img": "https://fetocdn.qureka.com/assets/newui_assets/newui/images/coinstack.png",
+                "entry": 40
+            },
+            {
+                "id": 4,
+                "mainimg": "https://fetocdn.qureka.com/storage/import/categories/20210308_123057_2Ouuf.png",
+                "title": "IPL",
+                "subject": "IPL",
+                "Winner": "10000",
+                "duration": 3600,
+                "img": "https://fetocdn.qureka.com/assets/newui_assets/newui/images/coinstack.png",
+                "entry": 20
+            },
+            {
+                "id": 5,
+                "mainimg": "https://fetocdn.qureka.com/storage/import/categories/20210308_123250_uOA3q.png",
+                "title": "World Cup",
+                "subject": "World Cup",
+                "Winner": 4000,
+                "duration": 10000,
+                "img": "https://fetocdn.qureka.com/assets/newui_assets/newui/images/coinstack.png",
+                "entry": 10
+            },
+            {
+                "id": 6,
+                "mainimg": "https://fetocdn.qureka.com/storage/import/categories/20210308_123337_n4jT9.png",
+                "title": "Indian Cricketer",
+                "subject": "Indian Cricketer",
+                "Winner": 5000,
+                "duration": 18000,
+                "img": "https://fetocdn.qureka.com/assets/newui_assets/newui/images/coinstack.png",
+                "entry": 50
+            },
+            {
+                "id": 7,
+                "mainimg": "https://fetocdn.qureka.com/storage/import/categories/20210308_123404_XPmk8.png",
+                "title": "Cricket Records",
+                "subject": "Cricket Records",
+                "Winner": 4000,
+                "duration": 10000,
+                "img": "https://fetocdn.qureka.com/assets/newui_assets/newui/images/coinstack.png",
+                "entry": 40
+            },
+            {
+                "id": 8,
+                "mainimg": "https://fetocdn.qureka.com/storage/import/categories/20210308_123437_kRiQU.png",
+                "title": "Test Cricket",
+                "subject": "Test Cricket",
+                "Winner": 5000,
+                "duration": 15000,
+                "img": "",
+                "entry": 50
+            }
+        ]
+    }
+]
