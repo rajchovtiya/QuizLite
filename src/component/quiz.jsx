@@ -116,7 +116,7 @@ const Quiz = () => {
                         </p>
                     )}
                     <div className='flex justify-center gap-4 mt-6'>
-                        <NavLink to={"/QuizLite"} className='px-5 py-2 bg-blue-500 rounded text-white font-semibold text-lg'>
+                        <NavLink to={"/QuizLites"} className='px-5 py-2 bg-blue-500 rounded text-white font-semibold text-lg'>
                             Restart Quiz
                         </NavLink>
                     </div>
