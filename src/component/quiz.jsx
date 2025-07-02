@@ -19,7 +19,10 @@ const Quiz = () => {
     useEffect(() => {
         const fetchQuizData = async () => {
             try {
-                const res = await fetch("/data/queamdans.json");
+                const res = await fetch(import.meta.env.BASE_URL + '/data/queamdans.json');
+
+                if (!res.ok) throw new Error(`HTTP error! Status: ${res.status}`);
+
                 const data = await res.json();
                 const matched = data.find(
                     (item) =>
@@ -27,11 +30,14 @@ const Quiz = () => {
                 );
                 if (matched) {
                     setQuizData(matched.que_ans || []);
+                } else {
+                    console.warn("No matching quiz found");
                 }
             } catch (error) {
                 console.error("Error fetching quiz data:", error);
             }
         };
+
         fetchQuizData();
     }, [show.subject]);
 
