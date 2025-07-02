@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://rajchovtiya.github.io/QuizLite/",
+  "homepage": "https://rajchovtiya.github.io/Intro/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
