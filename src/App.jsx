@@ -11,8 +11,8 @@ function App() {
     <div>
       <main className="max-w-[100%] md:max-w-[360px] px-2 py-3">
         <Routes>
-          <Route path='Intro' element={<Intro />}></Route>
-          <Route path='QuizLite' element={<QuizLite />}></Route>
+          <Route path='QuizLite' element={<Intro />}></Route>
+          <Route path='QuizLites' element={<QuizLite />}></Route>
           <Route path='Quizshow' element={<Quizshow />}></Route>
           <Route path='QuizRules' element={<QuizRules />}></Route>
           <Route path='Quiz' element={<Quiz />}></Route>

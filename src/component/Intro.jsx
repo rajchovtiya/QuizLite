@@ -126,7 +126,7 @@ const Intro = () => {
                                 </h6>
                             </div>
                             <div className='relative z-20 mt-2'>
-                                <NavLink to="/QuizLite" className='loginbtn'>
+                                <NavLink to="/QuizLites" className='loginbtn'>
                                     <span className='font-bold text-[23px] animate-textflow'>Let's Start</span>
                                 </NavLink>
                             </div>
