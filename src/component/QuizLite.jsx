@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import Navbar from './Navbar';
-import Header from "./Header";
 import { NavLink } from 'react-router-dom';
+import Header from './header';
 
 const QuizLite = () => {
     const [activeTab, setActiveTab] = useState('tab1');
@@ -15,6 +15,9 @@ const QuizLite = () => {
         const fetchData = async () => {
             try {
                 const response = await fetch('/data/quizlist.json');
+                if (!response.ok) {
+                    throw new Error(`File not found or fetch failed: ${response.status}`);
+                }
                 const data = await response.json();
                 setStor(data);
 
